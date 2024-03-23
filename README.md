@@ -45,12 +45,8 @@ Explore the dashboard to uncover valuable insights into NYC taxi service pattern
 The data used in this dashboard is collected from real NYC taxi trips. For more information on the dataset and its source, refer to the accompanying documentation.
 - link: https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq/about_data
 
-## Feedback and Contributions
+## Connect with Me
 
-If you have any feedback or suggestions for improvement, or if you'd like to contribute to this project, feel free to reach out. Your input is valuable in enhancing the dashboard's utility and effectiveness.
-
-## Connect with Us
-
-Connect with us on social media to stay updated on the latest insights and developments related to NYC taxi service patterns.
+Connect with me on social media to stay updated on the latest insights and developments related to NYC taxi service patterns.
 
 #### #DataVisualization #NYCTaxi #Insights #Dashboard #Tableau
