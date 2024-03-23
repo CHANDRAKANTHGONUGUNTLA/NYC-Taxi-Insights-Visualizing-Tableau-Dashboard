@@ -1,5 +1,7 @@
 # NYC Taxi Insights: Understanding Taxi Service Patterns
+## This project is completely done and analyzed in Tableau. I also analyzed the same NYC taxi Data using Python Language. Here is the link to the repository of the Tableau project
 
+## For a detailed overview of the Tableau Dashboard implementation, please explore the contents of this repository.
 ## Overview
 
 Welcome to the NYC Taxi Insights dashboard! This repository contains visualizations and statistics related to taxi trips in New York City. Here's a breakdown of each section:
