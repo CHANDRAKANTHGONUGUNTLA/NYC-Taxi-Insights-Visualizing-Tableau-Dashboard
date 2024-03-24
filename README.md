@@ -50,7 +50,7 @@ The data used in this dashboard is collected from real NYC taxi trips. For more 
 ## Connect with Me
 
 Connect with me on social media to stay updated on the latest insights and developments related to NYC taxi service patterns.
-- LinkedIn: https://www.linkedin.com/in/chandrakanth-naidu-gonuguntla-a09748274
+- LinkedIn: https://www.linkedin.com/in/chandrakanth-naidu-gonuguntla
 - Github: https://github.com/CHANDRAKANTHGONUGUNTLA
 - Facebook: https://www.facebook.com/chandrakanthnaiduG
 
